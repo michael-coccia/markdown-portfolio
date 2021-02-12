@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# here is a list of my empty ideas:
+- list unordered item
+- the next list from github teacher
